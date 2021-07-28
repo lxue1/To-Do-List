@@ -12,6 +12,7 @@
 		FB02E62A26B1B20F009A5049 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E62926B1B20F009A5049 /* Assets.xcassets */; };
 		FB02E62D26B1B20F009A5049 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB02E62C26B1B20F009A5049 /* Preview Assets.xcassets */; };
 		FB02E63526B1B879009A5049 /* ToDoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E63426B1B879009A5049 /* ToDoList.swift */; };
+		FB02E63726B1B957009A5049 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB02E63626B1B957009A5049 /* AddItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FB02E62C26B1B20F009A5049 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB02E62E26B1B20F009A5049 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB02E63426B1B879009A5049 /* ToDoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList.swift; sourceTree = "<group>"; };
+		FB02E63626B1B957009A5049 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				FB02E62526B1B20D009A5049 /* To_Do_ListApp.swift */,
 				FB02E62726B1B20D009A5049 /* ContentView.swift */,
+				FB02E63626B1B957009A5049 /* AddItemView.swift */,
 				FB02E63426B1B879009A5049 /* ToDoList.swift */,
 				FB02E62926B1B20F009A5049 /* Assets.xcassets */,
 				FB02E62E26B1B20F009A5049 /* Info.plist */,
@@ -144,6 +147,7 @@
 				FB02E62826B1B20D009A5049 /* ContentView.swift in Sources */,
 				FB02E63526B1B879009A5049 /* ToDoList.swift in Sources */,
 				FB02E62626B1B20D009A5049 /* To_Do_ListApp.swift in Sources */,
+				FB02E63726B1B957009A5049 /* AddItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
